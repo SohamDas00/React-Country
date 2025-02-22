@@ -34,7 +34,7 @@ Follow these steps to run the project locally:
 
 - **React** - Frontend framework
 - **Axios** - For fetching country data
-- **CSS/Tailwind CSS** - For styling
+- **CSS** - For styling
 
 ## API Source
 
@@ -43,10 +43,6 @@ This project fetches data from the [REST Countries API](https://restcountries.co
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
