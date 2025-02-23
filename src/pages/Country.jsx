@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useTransition } from 'react'
+import  { useEffect, useState, useTransition } from 'react'
 import { getCountryData } from '../api/postapi'
 import Loader from '../UI/Loader'
 import { CountryCard } from '../layout/Countrycard'

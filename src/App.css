@@ -129,6 +129,9 @@ nav ul {
     text-decoration: none
   }
 }
+.navlink-button {
+  text-decoration: none !important;
+}
 
 .ham-menu {
   display: none;
